@@ -1,5 +1,5 @@
 function breakOut(array, changeValue, stopValue) {
   array.forEach( element => {
-    array.splice(element[i],1,changeValue);
+    array.splice(element[index],1,changeValue);
   }
 };
