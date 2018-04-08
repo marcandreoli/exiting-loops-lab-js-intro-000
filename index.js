@@ -12,4 +12,5 @@ function breakOut(array, changeValue, stopValue) {
     } elseif (array[i] == stopValue) {
       break
     }
+    return newArray;
  }
